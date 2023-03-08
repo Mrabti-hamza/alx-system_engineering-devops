@@ -1,2 +1,2 @@
-cd root
+#!/bin/bash
 pwd
